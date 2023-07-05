@@ -12,6 +12,7 @@ Metainformation is included in the index.
 A detailed breakdown of all automatically collected information can be found here: 
 
 | Metadata | Description | Source | Required Credentials | Name in .env file |
+| -------- | ----------- | ------ | -------------------- | ----------------- |
 | Album Cover | The Cover of the Album or Single. Not necessarily the right one | | |
 | Song List | A list of the names of all songs on the record | | |
 | Lyrics | Lyrics for each Song on the record | | |
